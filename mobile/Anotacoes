@@ -30,9 +30,9 @@ App de anotações
 - expo install @react-native-async-storage/async-storage
 
 ##### Links da documentação
-![Link](https://docs.expo.dev/)<p>Expo Go</p>
-![Link](https://reactnavigation.org/docs/getting-started/)<p>React Navigation</p>
-![Link](https://reactnative.dev/docs/native-components-android)<p>React Native</p>
-![Link](https://styled-components.com/docs/basics)<p>Styled-Comonents</p>
-![Link](https://redux.js.org/introduction/getting-started)<p>Redux</p>
-![Link](https://react-native-async-storage.github.io/async-storage/docs/install)<p>Async Storage</p>
+[Link](https://docs.expo.dev/)<p>Expo Go</p>
+[Link](https://reactnavigation.org/docs/getting-started/)<p>React Navigation</p>
+[Link](https://reactnative.dev/docs/native-components-android)<p>React Native</p>
+[Link](https://styled-components.com/docs/basics)<p>Styled-Comonents</p>
+[Link](https://redux.js.org/introduction/getting-started)<p>Redux</p>
+[Link](https://react-native-async-storage.github.io/async-storage/docs/install)<p>Async Storage</p>
